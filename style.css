@@ -1,0 +1,14 @@
+*{
+    font-family: 'Metal Mania', cursive;
+    background-color: rgb(58, 31, 177);
+}
+.clock{
+    text-align: center;
+    margin: 45% auto;
+    font-size: 4em;
+    color: rgb(0, 0, 0);
+}
+.clock span{
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
